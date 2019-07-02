@@ -49,8 +49,7 @@ Best Practices
 - Cloud Agents
 - High Availability
 
-Hands-On-Lab
-
+Hands-On-Labs
 - Jenkins Installation 
 - Building in Jenkins
 - Building from SCM
