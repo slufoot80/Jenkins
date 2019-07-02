@@ -1,3 +1,6 @@
+OVERVIEW
+The purpose of this course is to prepare students to pass the Certified Jenkins Engineer 2018 exam. Student will learn CI/CD concepts as well as Jenkins installation and functionality. We will discuss Best practices for CD pipelines as well as taking a look at Jenkins Securtiy
+
 KeyConcepts
 - Jenkins and Continuous Integration ( CI ) / Continuous Delivery ( CD )
 - CI/CD
@@ -45,3 +48,14 @@ Best Practices
 - Tool Installation on Agents
 - Cloud Agents
 - High Availability
+
+Hands-On-Lab
+
+- Jenkins Installation 
+- Building in Jenkins
+- Building from SCM
+- Distributing a Build
+- Artifacts and Fingerprints
+- Security in Jenkins
+- Parameterizing builds 
+- Build Triggers 
